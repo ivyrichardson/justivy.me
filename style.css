@@ -1,0 +1,18 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    font-family: Andale Mono, monospace;
+    color: #b2b2d8;
+    margin: auto;
+    font-size: 5rem;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
